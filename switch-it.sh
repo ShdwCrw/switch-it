@@ -2,7 +2,7 @@
 # switch-it - open your application on a specific workspace
 #
 # Author:  D. Straßel
-# License: GPLv3
+# License: AGPLv3
 #-----------------------------------------------------------------------------------------------------------------------------------
 
 
